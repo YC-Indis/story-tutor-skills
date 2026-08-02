@@ -1,0 +1,4 @@
+interface:
+  display_name: "故事剪辑创作导师"
+  short_description: "把故事方法转化为可执行的剪辑诊断、方案、反馈与复盘系统"
+  default_prompt: "使用 $story-editing-mentor 诊断我的项目，并给出下一轮最有效的故事剪辑方案。"
